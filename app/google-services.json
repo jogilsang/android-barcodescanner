@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1003457513459",
+    "firebase_url": "https://myapp-4b735.firebaseio.com",
+    "project_id": "myapp-4b735",
+    "storage_bucket": "myapp-4b735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003457513459:android:b5b9e88cae1a1838",
+        "android_client_info": {
+          "package_name": "com.practice.bacodescanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdPfzW8uxwE70nrm_xVEjSQuiYvNRtOPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003457513459-mfijhiima4cntdo8a3kc15k7grf38i3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
